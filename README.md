@@ -1,4 +1,4 @@
-# Optical-heart-rate-monitor
+# Optical-heart-rate-monitor (Group project)
 # Course: ELEC-C5070 – Electronics Workshop
 ![Optical hear rate monitor](https://github.com/Apemonni/Optical-heart-rate-monitor/blob/master/Optical-heart-rate-monitor.png)
 ## Inroduction
