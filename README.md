@@ -1,5 +1,5 @@
 # Optical-heart-rate-monitor (Group project)
-# Course: ELEC-C5070 – Electronics Workshop
+## Course: ELEC-C5070 – Electronics Workshop
 My responsibilities in the project were:
 * Mapping out potential components to be used in the project including microcontroller and heart rate sensor
 * Finding out how the sensor works when monitoring the heart rate and how the data could be fed to microcontroller
